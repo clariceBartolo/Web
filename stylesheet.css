@@ -449,7 +449,10 @@ height: 3px;
 width: 110px;
 font-size: 10px;
 }
-
+#contuctdetails{
+  float: right;
+  margin-top: -150px;
+}
 }
 
 
