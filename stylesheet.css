@@ -451,7 +451,8 @@ font-size: 10px;
 }
 #contuctdetails{
   float: right;
-  margin-top: -150px;
+ margin-top: -10px;
+  margin-right: 10%;
 }
 }
 
